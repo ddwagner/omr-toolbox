@@ -1,4 +1,4 @@
-# <Matlab omr-toolbox
+# Matlab omr-toolbox
 
 ![omr-toolbox](https://github.com/wagner-lab/omr-toolbox/blob/master/docs/omr-toolbox-github.gif)
 
